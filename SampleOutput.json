@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 14561,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "Bitcoin Price Slides to Two-Year Low as Fears Persist Over FTX Contagion",
+            "description": "The price of Bitcoin slid to just $15,680 on Tuesday morning, the lowest level in over two years for the cryptocurrency. And most people expect the price to continue to fall substantially as traders worry the fallout from the implosion of FTX, once the second…",
+            "url": "https://gizmodo.com/bitcoin-price-slides-fears-persist-ftx-contagion-eth-1849811382",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e20e15c2c69269e8476e99a9a8e9ed9a.png",
+            "publishedAt": "2022-11-22T11:00:00Z",
+            "content": "The price of Bitcoin slid to just $15,680 on Tuesday morning, the lowest level in over two years for the cryptocurrency. And most people expect the price to continue to fall substantially as traders … [+1918 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Mitchell Clark",
+            "title": "As FTX sinks, other crypto exchanges are showing their coins",
+            "description": "Crypto.com, Binance, and Coinbase are among the cryptocurrency exchanges trying to prove to customers that their funds are safe following the collapse of FTX.",
+            "url": "https://www.theverge.com/2022/11/11/23453560/ftx-bankruptcy-coinbase-binance-crypto-proof-of-reserves",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/wPO2usOSxctI84haZv11M8ErP_0=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23587767/acastro_220524_STK428_0003.jpg",
+            "publishedAt": "2022-11-11T21:31:19Z",
+            "content": "You say you have my money? Prove it. | Illustration by Alex Castro / The Verge\r\n\n \n\n As FTX, formerly the world’s third-largest cryptocurrency exchange by volume, files for bankruptcy and halts withd… [+5867 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Andy Greenberg",
+            "title": "The Hunt for the Dark Web’s Biggest Kingpin, Part 4: Face to Face",
+            "description": "The team uses a secret technique to locate AlphaBay’s server. But just as the operation heats up, the agents have an unexpected run-in with their target.",
+            "url": "https://www.wired.com/story/alphabay-series-part-4-face-to-face/",
+            "urlToImage": "https://media.wired.com/photos/6369782f3505151fbc0b01cd/191:100/w_1280,c_limit/WI110122_EX_Tracers_AlphaBay2_01.jpg",
+            "publishedAt": "2022-11-15T11:00:00Z",
+            "content": "The answer appeared, without fanfare, on Levins screen: an AlphaBay IP address. Or rather, a handful of IP addresses that were likely to belong to the sites wallet server. A quick search revealed tha… [+4733 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "Binance Releases Proof-of-Reserves System",
+            "description": "Binance has released its proof-of-reserves system, starting with bitcoin, in order to show that the exchange is healthy and solvent. From a report: This comes just weeks after rival exchange FTX collapsed, after seemingly swapping user funds for other, more i…",
+            "url": "https://slashdot.org/story/22/11/25/1426252/binance-releases-proof-of-reserves-system",
+            "urlToImage": "https://a.fsdn.com/sd/topics/bitcoin_64.png",
+            "publishedAt": "2022-11-26T06:01:00Z",
+            "content": "I came, I saw, I deleted all your files."
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Gian M. Volpicelli",
+            "title": "The Great Crypto-Cop Brain Drain",
+            "description": "Hunting down crypto criminals is a dying art as law enforcement officers jump in-house.",
+            "url": "https://www.wired.com/story/the-great-crypto-cop-brain-drain/",
+            "urlToImage": "https://media.wired.com/photos/636b01906776a0176c76e576/191:100/w_1280,c_limit/business-crypto-cop.jpg",
+            "publishedAt": "2022-11-09T12:00:00Z",
+            "content": "In the course of a decade as a special agent with the US Internal Revenue Service (IRS), Tigran Gambaryan has seen them all. \r\nFrom plundered crypto exchange Mt Gox, to dark-net marketplace Silk Road… [+3016 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Cryptoverse: Bitcoin wants to break its bond with stocks - Reuters",
+            "description": "After months of tears and tantrums, bitcoin wants to split up with stock markets.",
+            "url": "https://www.reuters.com/technology/cryptoverse-bitcoin-wants-break-its-bond-with-stocks-2022-11-01/",
+            "urlToImage": "https://www.reuters.com/resizer/bWNhsz1HaCN1pRR9s5PyHbHlF3Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Z34ISH2TFNO6DND4JK4XQAJ3LU.jpg",
+            "publishedAt": "2022-11-01T06:16:29Z",
+            "content": "Nov 1 (Reuters) - After months of tears and tantrums, bitcoin wants to split up with stock markets.\r\nThe cryptocurrency, which has been closely correlated with tech stocks for much of its torrid 2022… [+4079 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "DOJ and SEC Investigating FTX Collapse as Entire Crypto Market Plunges",
+            "description": "The Department of Justice and Securities and Exchange Commission are investigating FTX, a crypto platform that halted withdrawals on Tuesday, according to a new report from the Wall Street Journal. And while the SEC’s investigation has reportedly been going “…",
+            "url": "https://gizmodo.com/doj-sec-investigating-ftx-bitcoin-price-crypto-plunges-1849766102",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f8565ac7ce2dbb67f7fee4f98c736b91.png",
+            "publishedAt": "2022-11-10T11:00:00Z",
+            "content": "The Department of Justice and Securities and Exchange Commission are investigating FTX, a crypto platform that halted withdrawals on Tuesday, according to a new report from the Wall Street Journal. A… [+5185 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "Harvard Paper To Central Banks: Buy Bitcoin",
+            "description": "A new working paper by Matthew Ferranti -- a fifth-year PhD candidate in Harvard's economics department and advisee of Ken Rogoff, a former economist at the IMF and the Federal Reserve Board of Governors who is now a Harvard professor -- has caused a minor sp…",
+            "url": "https://news.slashdot.org/story/22/11/24/1026238/harvard-paper-to-central-banks-buy-bitcoin",
+            "urlToImage": "https://a.fsdn.com/sd/topics/bitcoin_64.png",
+            "publishedAt": "2022-11-24T14:00:00Z",
+            "content": "In it, Ferranti argues that it makes sense for many central banks to hold a small amount of Bitcoin under normal circumstances, and much more Bitcoin if they face sanctions risks, though his analysis… [+2188 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Tumbling bitcoin overshadows El Salvador's crypto conference - Reuters",
+            "description": "El Salvador's long-awaited bitcoin conference, which was in the limelight in 2021 after the small nation became the world's first to adopt the cryptocurrency as legal tender, has lost its luster this time amid a deep rout in the digital currency universe.",
+            "url": "https://www.reuters.com/technology/tumbling-bitcoin-overshadows-el-salvadors-crypto-conference-2022-11-17/",
+            "urlToImage": "https://www.reuters.com/resizer/EDlGLf_u7ZMbj-kJTdM9E0EbqPo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FJKWG42UNBNIPHHYW7R3JIA4LI.jpg",
+            "publishedAt": "2022-11-17T22:59:00Z",
+            "content": "SAN SALVADOR, Nov 17 (Reuters) - El Salvador's long-awaited bitcoin conference, which was in the limelight in 2021 after the small nation became the world's first to adopt the cryptocurrency as legal… [+1956 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "Bitcoin 'Rarely' Used for Legal Transactions, on 'Road To Irrelevance', Say ECBank Officials",
+            "description": "European Central Bank officials argued on Wednesday that bitcoin is \"rarely used for legal transactions,\" is fuelled by speculation and the recent erosion in its value indicates that it is on the \"road to irrelevance,\" in a series of stringent criticism (bere…",
+            "url": "https://slashdot.org/story/22/11/30/1356224/bitcoin-rarely-used-for-legal-transactions-on-road-to-irrelevance-say-ecbank-officials",
+            "urlToImage": "https://a.fsdn.com/sd/topics/bitcoin_64.png",
+            "publishedAt": "2022-11-30T14:00:00Z",
+            "content": "The value of bitcoin recently finding stability at around $20,000 was \"an artificially induced last gasp before the road to irrelevance â\" and this was already foreseeable before FTX went bust and se… [+671 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "ECB says Bitcoin is artificially propped up, shouldn't be legitimised - Reuters",
+            "description": "Bitcoin is being artificially propped up and should not be legitimised by regulators or financial companies as it heads for \"irrelevance\", the European Central Bank said on Wednesday.",
+            "url": "https://www.reuters.com/technology/ecb-says-bitcoin-is-artificially-propped-up-shouldnt-be-legitimised-2022-11-30/",
+            "urlToImage": "https://www.reuters.com/resizer/piVC50BQwpDIkwjFQDgkVAfdPJ4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/H2TXKPMHCBKUZN477JBSK6BWQI.jpg",
+            "publishedAt": "2022-11-30T12:37:00Z",
+            "content": "FRANKFURT, Nov 30 (Reuters) - Bitcoin is being artificially propped up and should not be legitimised by regulators or financial companies as it heads for \"irrelevance\", the European Central Bank said… [+2764 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "El Salvador govt seeks Congress approval to issue bitcoin-backed bonds - Reuters",
+            "description": "The government of El Salvador, the first country in the world to adopt bitcoin as legal tender, is seeking congressional approval to issue investment bonds in the cryptocurrency.",
+            "url": "https://www.reuters.com/markets/rates-bonds/el-salvador-govt-seeks-congress-approval-issue-bitcoin-backed-bonds-2022-11-23/",
+            "urlToImage": "https://www.reuters.com/resizer/vw5LUa1a6Yti_HK0JhCmXz-sAkw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TBSQPPOZCNNOFAAZZCMXA2JOKQ.jpg",
+            "publishedAt": "2022-11-23T18:03:00Z",
+            "content": "SAN SALVADOR, Nov 23 (Reuters) - The government of El Salvador, the first country in the world to adopt bitcoin as legal tender, is seeking congressional approval to issue investment bonds in the cry… [+1746 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Crypto markets teeter with FTX after Binance abandons bailout - Reuters",
+            "description": "Cryptocurrency markets nursed heavy losses on Thursday, with bitcoin pinned near a two-year low as investors fretted about the fallout from the implosion of crypto exchange FTX.",
+            "url": "https://www.reuters.com/markets/currencies/crypto-markets-teeter-with-ftx-after-binance-abandons-bailout-2022-11-10/",
+            "urlToImage": "https://www.reuters.com/resizer/vw5LUa1a6Yti_HK0JhCmXz-sAkw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TBSQPPOZCNNOFAAZZCMXA2JOKQ.jpg",
+            "publishedAt": "2022-11-10T05:32:00Z",
+            "content": "HONG KONG/SINGAPORE, Nov 10 (Reuters) - Cryptocurrency markets nursed heavy losses on Thursday, with bitcoin pinned near a two-year low as investors fretted about the fallout from the implosion of cr… [+3473 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Trading in crypto derivatives surges as investors hedge positions after FTX shock - Reuters",
+            "description": "Trading volumes in bitcoin futures and exchange traded funds (ETFs) has exploded as investors scrambled to hedge their positions after this week's slump in digital tokens triggered by turmoil at <a href=\"/markets/currencies/crypto-markets-teeter-with-ftx-afte…",
+            "url": "https://www.reuters.com/business/finance/trading-crypto-derivatives-surges-investors-hedge-positions-after-ftx-shock-2022-11-10/",
+            "urlToImage": "https://www.reuters.com/resizer/vw5LUa1a6Yti_HK0JhCmXz-sAkw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TBSQPPOZCNNOFAAZZCMXA2JOKQ.jpg",
+            "publishedAt": "2022-11-10T18:23:00Z",
+            "content": "Nov 10 (Reuters) - Trading volumes in bitcoin futures and exchange traded funds (ETFs) has exploded as investors scrambled to hedge their positions after this week's slump in digital tokens triggered… [+2358 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Sarah Lord",
+            "title": "DOJ Seizes $3.3B in Stolen Bitcoin Tied to Silk Road Case - CNET",
+            "description": "The seizure is related to the 2012 Silk Road dark web fraud investigation.",
+            "url": "https://www.cnet.com/personal-finance/crypto/doj-seizes-3-3b-in-stolen-bitcoin-tied-to-silk-road-case/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/50d5451562d9c1859215da38f621c64662a4a349/hub/2022/04/27/ae541c87-160d-4df7-994c-8afe67af5781/bitcoin-logo-2022-531.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2022-11-07T19:01:49Z",
+            "content": "The case of a mysterious 2012 bitcoin heist is closed. The Department of Justice on Friday seized $3.36 billion in cryptocurrency from a Georgia man who pleaded guilty to wire fraud, the agency said … [+1498 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Alex Hern UK technology editor",
+            "title": "ECB says bitcoin is on ‘road to irrelevance’ amid crypto collapse",
+            "description": "European Bank criticises digital currency sector for facilitating illegal activityThe European Central Bank says bitcoin is on an “artificially induced last gasp before the road to irrelevance”, in a scathing intervention arguing against giving regulatory leg…",
+            "url": "https://www.theguardian.com/technology/2022/nov/30/ecb-says-bitcoin-is-on-road-to-irrelevance-amid-crypto-collapse",
+            "urlToImage": "https://i.guim.co.uk/img/media/73047e839ae2dc9cf47ed67efb8cacaa6b7d06a9/0_117_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b09bf79af2dc84ad598d04184bd076ca",
+            "publishedAt": "2022-11-30T16:11:57Z",
+            "content": "The European Central Bank says bitcoin is on an artificially induced last gasp before the road to irrelevance, in a scathing intervention arguing against giving regulatory legitimacy to the cryptocur… [+3870 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "ztayeb@businessinsider.com (Zahra Tayeb)",
+            "title": "Bitcoin and other cryptos spiral lower as worries about the fallout from FTX's troubles grow",
+            "description": "Bitcoin and other cryptos extended losses Wednesday as worries about FTX-Binance turmoil spreading to other players spooked investors.",
+            "url": "https://markets.businessinsider.com/news/currencies/crypto-prices-bitcoin-binance-ftx-takeover-liquidity-issues-2022-11",
+            "urlToImage": "https://i.insider.com/628e15263dbbd20018b71e03?width=1200&format=jpeg",
+            "publishedAt": "2022-11-09T11:58:54Z",
+            "content": "Bitcoin and other cryptocurrencies extended their losses Wednesday as worries built that the FTX troubles that led to Binance's bailout could spread to other big digital-asset players.\r\nIn a stunning… [+1690 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Reuters",
+            "title": "US justice department seizes bitcoins worth more than $3bn stolen a decade ago",
+            "description": "A search of James Zhong’s Georgia home uncovered 50,000 bitcoins found on a circuit board in the bottom of a popcorn tinThe United States is seeking the forfeiture of more than $1bn in bitcoin stolen from the Silk Road online marketplace, federal prosecutors …",
+            "url": "https://www.theguardian.com/technology/2022/nov/07/us-justice-department-seizes-bitcoin-theft",
+            "urlToImage": "https://i.guim.co.uk/img/media/dc1236999a50e3c2f9d34726a9759bed8aefc328/0_53_4500_2700/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ebe22b35c995880fe8402ed459c17ffb",
+            "publishedAt": "2022-11-07T23:10:22Z",
+            "content": "The United States is seeking the forfeiture of more than $1bn in bitcoin stolen from the Silk Road online marketplace, federal prosecutors in Manhattan said on Monday.\r\nIn the second largest seizure … [+1711 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Carla Mozée)",
+            "title": "El Salvador is moving toward raising $1 billion in bonds backed by bitcoin by broadening its bet on crypto",
+            "description": "El Salvador's President Nayib Bukele had previously outlined plans to use funds raised from Volcano Bonds to attract investment and buy more bitcoin.",
+            "url": "https://markets.businessinsider.com/news/bonds/bitcoin-el-salvador-bonds-nayib-bukele-crypto-bill-volcano-btcusd-2022-11",
+            "urlToImage": "https://i.insider.com/627d3e7e27d5960019ee4e59?width=1200&format=jpeg",
+            "publishedAt": "2022-11-23T19:25:36Z",
+            "content": "El Salvador is pressing on with efforts that could lead the country to raise $1 billion in bitcoin-backed bonds, with President Nayib Bukele bucking international concerns about the country's exposur… [+1941 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "prosen@insider.com (Phil Rosen)",
+            "title": "Binance chief CZ says El Salvador didn't hold any bitcoin on Sam Bankman-Fried's collapsing FTX",
+            "description": "\"I exchanged messages with President Nayib a few moments ago. He said 'we don't have any Bitcoin in FTX and we never had any business with them.'\"",
+            "url": "https://markets.businessinsider.com/news/currencies/el-salvador-bitcoin-sam-bankman-fried-ftx-bukele-cz-binance-2022-11",
+            "urlToImage": "https://i.insider.com/636e7652951bdc00182daff9?width=1200&format=jpeg",
+            "publishedAt": "2022-11-11T17:41:12Z",
+            "content": "Binance CEO Changpeng \"CZ\" Zhao said Thursday that the president of El Salvador told him the country did not hold any bitcoin on collapsing crypto exchange FTX. \r\n\"Man, the amount of misinformation i… [+1648 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "More Than 50% of Bitcoin Addresses Are Now In Loss",
+            "description": "Most addresses holding bitcoin (BTC), the largest cryptocurrency, are now in the red, the first time that's happened since the start of the coronavirus-induced crash of March 2020. CoinDesk reports: Just over 51%, or 24.6 million addresses of the total 47.9 m…",
+            "url": "https://slashdot.org/story/22/11/21/232218/more-than-50-of-bitcoin-addresses-are-now-in-loss",
+            "urlToImage": "https://a.fsdn.com/sd/topics/bitcoin_64.png",
+            "publishedAt": "2022-11-22T01:25:00Z",
+            "content": "Just over 51%, or 24.6 million addresses of the total 47.9 million, are below purchase price on their investments, according to data provided by blockchain analytics firm IntoTheBlock. About 45% are … [+601 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "ztayeb@businessinsider.com (Zahra Tayeb)",
+            "title": "The FTX fiasco doesn't make bitcoin untouchable and crypto doomsayers are just 'people throwing gasoline,' Fundstrat's Tom Lee says",
+            "description": "\"Do I think crypto is dead? No, I think there's a lot of people throwing gasoline in a crowded theatre and yelling fire,\" Fundstrat's Tom Lee said.",
+            "url": "https://www.businessinsider.com/ftx-crypto-crash-bitcoin-invest-untouchable-fundstrat-tom-lee-2022-11",
+            "urlToImage": "https://i.insider.com/61f9338f415c3f0018d3e18d?width=1200&format=jpeg",
+            "publishedAt": "2022-11-28T14:22:43Z",
+            "content": "There's still hope for the crypto industry despite FTX's implosion, and bitcoin continues to make sense for some investors, according to Fundstrat's Tom Lee.\r\nIn a Friday interview with CNBC, Lee lik… [+2359 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "Crypto Platform AAX Halts Withdrawals But Denies It Had Exposure to FTX",
+            "description": "Hong Kong-based crypto trading platform AAX halted withdrawals on Sunday and claims it will try to resume trades in 7-10 days, according to a press release from the company. But we’ve certainly heard that one before in crypto land.Read more...",
+            "url": "https://gizmodo.com/crypto-platform-aax-bitcoin-ether-halts-withdrawals-ftx-1849778792",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/906075272c0e4593aec100c0bc8ac23a.jpg",
+            "publishedAt": "2022-11-14T10:00:00Z",
+            "content": "Hong Kong-based crypto trading platform AAX halted withdrawals on Sunday and claims it will try to resume trades in 7-10 days, according to a press release from the company. But weve certainly heard … [+2589 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "As regulators scrutinise FTX, investor focus swings to Crypto.com - Reuters",
+            "description": "The fallout from the collapse of crypto exchange FTX kept bitcoin and other cryptocurrencies under pressure on Monday, with market participants worrying about heavy withdrawals at Singapore-based exchange Crypto.com.",
+            "url": "https://www.reuters.com/technology/regulators-scrutinise-ftx-investor-focus-swings-cryptocom-2022-11-14/",
+            "urlToImage": "https://www.reuters.com/resizer/I9QkCu6v6aAVd1B7qmgoAPLQh6Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FU5QNLLW2BOZLL7TQJDZNLFUL4.jpg",
+            "publishedAt": "2022-11-14T06:48:00Z",
+            "content": "SINGAPORE, Nov 14 (Reuters) - The fallout from the collapse of crypto exchange FTX kept bitcoin and other cryptocurrencies under pressure on Monday, with market participants worrying about heavy with… [+3319 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "No spot Bitcoin ETFs approved so far - U.S. SEC official - Reuters.com",
+            "description": "The U.S. Securities and Exchange Commission has yet to approve any spot bitcoin exchange-traded fund listings to date, commissioner Mark Uyeda said at the sidelines of a forum in Singapore on Wednesday.",
+            "url": "https://www.reuters.com/technology/no-spot-bitcoin-etfs-approved-so-far-us-sec-official-2022-11-30/",
+            "urlToImage": "https://www.reuters.com/resizer/bb0WB0ztXI3WLdTlyN3ZVaHbzuw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XT33XC7BBBPKPDUCYU2NZIGVXI.jpg",
+            "publishedAt": "2022-11-30T08:48:00Z",
+            "content": "SINGAPORE, Nov 30 (Reuters) - The U.S. Securities and Exchange Commission has yet to approve any spot bitcoin exchange-traded fund listings to date, commissioner Mark Uyeda said at the sidelines of a… [+427 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Crypto stocks slide as FTX prepares for bankruptcy proceedings - Reuters",
+            "description": "Shares of cryptocurrency and blockchain-related firms dropped on Friday after FTX, one of the biggest crypto exchanges, said it would initiate bankruptcy proceedings in the United States, triggering a potentially massive meltdown in the industry.",
+            "url": "https://www.reuters.com/markets/crypto-stocks-slide-ftx-prepares-bankruptcy-proceedings-2022-11-11/",
+            "urlToImage": "https://www.reuters.com/resizer/_wMFawbTXgvaPkkyEfP9eQznO4c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IEKBL26CVFNPJJPQNQNVV4NMMI.jpg",
+            "publishedAt": "2022-11-11T15:59:00Z",
+            "content": "Nov 11 (Reuters) - Shares of cryptocurrency and blockchain-related firms dropped on Friday after FTX, one of the biggest crypto exchanges, said it would initiate bankruptcy proceedings in the United … [+1700 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "Adrian Falk",
+            "title": "How Bad Is Bitcoin Bad for the Environment? It Uses More Energy Than Argentina.",
+            "description": "The race to 'mine' for cryptocurrency causes outsized carbon emissions, study says.",
+            "url": "https://www.entrepreneur.com/green-entrepreneur/is-bitcoin-bad-for-the-environment/439478",
+            "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1669147050-crypto.jpeg",
+            "publishedAt": "2022-11-22T20:09:00Z",
+            "content": "Cryptocurrency's failure isn't just its plummeting financial losses over the last year but also the devastating effects the digital currency has had on our planet.\r\nWhy is it bad for the environment?… [+3302 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "rhouston@businessinsider.com (Rickie Houston, CEPF)",
+            "title": "Bitcoin IRA review: Invest in gold and more than 60 cryptocurrencies",
+            "description": "Bitcoin IRA offers self-directed IRAs and investing for gold and more than 60 cryptocurrencies. You'll need at least $3,000 to start, and fees vary.",
+            "url": "https://www.businessinsider.com/personal-finance/bitcoin-ira-review",
+            "urlToImage": "https://i.insider.com/63642c462f63c4001af33a03?width=1200&format=jpeg",
+            "publishedAt": "2022-11-09T16:34:14Z",
+            "content": "Insider's experts choose the best products and services to help make smart decisions with your money (heres how). In some cases, we receive a commission from our our partners, however, our opinions a… [+8806 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Sam Becker,Lisa Niser, EA)",
+            "title": "What to know about the IRS rules for bitcoin, Ethereum and other cryptocurrencies for tax season 2023",
+            "description": "If you made a profit off of a bitcoin sale this year, you may be on the hook for capital gains taxes.",
+            "url": "https://www.businessinsider.com/personal-finance/crypto-taxes-guide-bitcoin-ethereum-dogecoin",
+            "urlToImage": "https://i.insider.com/6385120abf36eb001910c3a9?width=1200&format=jpeg",
+            "publishedAt": "2022-11-29T14:50:27Z",
+            "content": "Insider's experts choose the best products and services to help make smart decisions with your money (heres how). In some cases, we receive a commission from our our partners, however, our opinions a… [+7430 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "prosen@insider.com (Phil Rosen)",
+            "title": "Ether falls as the FTX hacker dumps $74 million worth of the token and swaps it for bitcoin",
+            "description": "Fears of an FTX contagion continue to spread through the crypto sector, hitting major tokens like ether and bitcoin and sparking sell-offs.",
+            "url": "https://www.businessinsider.com/eth-crypto-ftx-hacker-million-tokens-bankman-fried-bitcoin-markets-2022-11",
+            "urlToImage": "https://i.insider.com/637bae18c6a3060018896d7d?width=1200&format=jpeg",
+            "publishedAt": "2022-11-21T18:22:41Z",
+            "content": "The price of ether dropped as much as 7% Monday as the purported FTX hacker dumped millions of dollars worth of pilfered ethereum and swapped it for bitcoin. \r\nA week ago, the hacker had accumulated … [+1620 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "madams@businessinsider.com (Max Adams)",
+            "title": "Cathie Wood just bought shares in Grayscale's bitcoin trust for the first time in 16 months at a deep discount",
+            "description": "At current prices, buying into the trust is comparable to buying bitcoin at about $11,000 versus the $16,000 the actual token is trading for.",
+            "url": "https://markets.businessinsider.com/news/etf/cathie-wood-grayscale-bitcoin-trust-buy-the-dip-crypto-ark-2022-11",
+            "urlToImage": "https://i.insider.com/6290df13f099c40019569e10?width=1200&format=jpeg",
+            "publishedAt": "2022-11-16T18:08:44Z",
+            "content": "Cathie Wood's ARK Invest on Monday snapped up shares of the Grayscale Bitcoin Trust for the first time since June 2021, as the famed invesment manager goes bargain hunting in the downtrodden cryptocu… [+1149 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "jsor@insider.com (Jennifer Sor)",
+            "title": "Investing in crypto is 'dangerous' and bitcoin could plummet to $10,000, billionaire investor Mark Mobius says",
+            "description": "Bitcoin could fall another 40% to $10,000, Mark Mobius warned, as the industry struggles to recover after the implosion of FTX.",
+            "url": "https://markets.businessinsider.com/news/currencies/mark-mobius-crypto-winter-bitcoin-fall-ftx-crash-danger-investors-2022-11",
+            "urlToImage": "https://i.insider.com/6384ed7dd0824500199696cf?width=1200&format=jpeg",
+            "publishedAt": "2022-11-28T17:58:34Z",
+            "content": "Crypto winter is set to deepen, and the price of bitcoin could soon plummet to $10,000, according to legendary investor Mark Mobius.\r\nThe billionaire and co-founder of Mobius Capital Partners gave hi… [+1438 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "prosen@insider.com (Phil Rosen)",
+            "title": "El Salvador says China offered to buy all its foreign debt as the nation looks to avoid default",
+            "description": "\"China has offered to buy all our debt, but we need to tread carefully,\" Vice President Felix Ulloa told Bloomberg.",
+            "url": "https://markets.businessinsider.com/news/bonds/china-el-salvador-debt-default-refinance-bitcoin-bond-nayib-bukele-2022-11",
+            "urlToImage": "https://i.insider.com/636a5c15e53c920019e7e25b?width=1200&format=jpeg",
+            "publishedAt": "2022-11-08T14:16:27Z",
+            "content": "China offered to buy El Salvador's large amount of distressed foreign debt, President Nayib Bukele's second-in-command told Bloomberg on Monday. \r\n\"China has offered to buy all our debt, but we need … [+1710 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Carol Alexander",
+            "title": "After the collapse of FTX, Binance will become the Amazon of the crypto market | Carol Alexander",
+            "description": "Buyers should beware as the ‘self-regulated’ organisation could become a feeding ground for ill-intentioned investorsFollowing the bankruptcy of one of the world’s largest cryptocurrency exchanges, FTX, the price of bitcoin (BTC) has tumbled again. It is now …",
+            "url": "https://www.theguardian.com/commentisfree/2022/nov/23/ftx-binance-crypto-market",
+            "urlToImage": "https://i.guim.co.uk/img/media/00899c7ff9f212ac2faae5df03bced06a8222698/0_38_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=43b41a91806aac861af183c0a4b628d0",
+            "publishedAt": "2022-11-23T15:30:02Z",
+            "content": "Following the bankruptcy of one of the worlds largest cryptocurrency exchanges, FTX, the price of bitcoin (BTC) has tumbled again. It is now about $16,500 a far cry from the all-time high of $66,000 … [+4574 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "The fall of the FTX ‘King of Crypto’ Sam Bankman-Fried",
+            "description": "How a crypto empire built on video game battles and beanbags came crashing down.",
+            "url": "https://www.bbc.co.uk/news/technology-63612489",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BAA5/production/_127618774_5cddff17-11a0-4777-9fe8-0d3fdf9c52e3.jpg",
+            "publishedAt": "2022-11-13T11:25:59Z",
+            "content": "It took fewer than eight days for Sam Bankman-Fried to go from being nicknamed the \"King Of Crypto\" to his company filing for bankruptcy and him stepping down as CEO, potentially facing federal inves… [+8052 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "Gabrielle Bienasz",
+            "title": "Tom Brady, Sam Bankman-Fried, and Cryptoworld Lose Big in FTX Meltdown",
+            "description": "Binance said on Tuesday it would purchase FTX amid rumors of its insolvency in a move that has shocked crypto world and driven down the price of Bitcoin. Here's how it is all going down.",
+            "url": "https://www.entrepreneur.com/business-news/ftx-meltdown-tanks-crypto-ecosystem-and-customers-wallets/438814",
+            "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1668023178-Bloomberg.jpg",
+            "publishedAt": "2022-11-09T22:31:00Z",
+            "content": "People are losing money and faith with crypto.\r\nBloomberg I Getty ImagesSam Bankman-Fried at a crypto event.\r\nSam Bankman-Fried, the previously lauded billionaire and CEO of cryptocurrency exchange F… [+5763 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "Steve Huff",
+            "title": "FTX Collapse Has Nervous Crypto Investors Draining Bitcoin From Exchanges at Near-Record Rates",
+            "description": "Ripple effects from FTX include BTC holders losing trust in centralized solutions and opting for self-storage.",
+            "url": "https://www.entrepreneur.com/business-news/ftx-collapse-has-nervous-crypto-investors-draining-bitcoin/439140",
+            "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1668485527-GettyImages-1244719571-2088-1389.jpg",
+            "publishedAt": "2022-11-15T04:40:00Z",
+            "content": "Bitcoin holders are skittish following the dramatic collapse of the FTX cryptocurrency exchange, according to blockchain analysts at Glassnode. Bitcoin (BTC) withdrawals have hit a record rate of 106… [+1841 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Column: Good money after bad? Crypto still seems to be attracting punters - Reuters.com",
+            "description": "If a series of high-profile multibillion-dollar blow-ups, alleged fraud and a 75% collapse in the price of your biggest asset doesn't shake faith in the crypto universe, it's hard to imagine what will.",
+            "url": "https://www.reuters.com/markets/currencies/good-money-after-bad-crypto-still-seems-be-attracting-punters-2022-11-18/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=120",
+            "publishedAt": "2022-11-18T16:48:00Z",
+            "content": "ORLANDO, Fla., Nov 18 (Reuters) - If a series of high-profile multibillion-dollar blow-ups, alleged fraud and a 75% collapse in the price of your biggest asset doesn't shake faith in the crypto unive… [+5080 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "prosen@insider.com (Phil Rosen)",
+            "title": "Cathie Wood is buying the dip in Coinbase, adding $53 million this month as the FTX collapse pressures the crypto industry",
+            "description": "Wall Street has soured on Coinbase since the FTX debacle, but ARK's Cathie Wood sees a buying opportunity as the stock price crumbles.",
+            "url": "https://www.businessinsider.com/cathie-wood-coinbase-stock-buy-the-dip-ftx-sbf-ark-2022-11",
+            "urlToImage": "https://i.insider.com/619e44e5d8faa30018709883?width=1200&format=jpeg",
+            "publishedAt": "2022-11-22T14:23:24Z",
+            "content": "Coinbase shares have plunged to all-time low as the fallout from Sam Bankman-Fried's FTX collapse spreads, but Cathie Wood is seeing a buying opportunity. \r\nCoinbase stock is down roughly 20% over th… [+1266 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Breakingviews - Sam Bankman-Fried did financial system a favour - Reuters",
+            "description": "Sam Bankman-Fried has tipped the cryptocurrency industry into crisis. But the spectacular implosion of FTX, the exchange he founded, has done the broader financial system a big favour. The curly-haired kingpin was at the forefront of pushing regulators and po…",
+            "url": "https://www.reuters.com/breakingviews/sam-bankman-fried-did-financial-system-favour-2022-11-15/",
+            "urlToImage": "https://www.reuters.com/resizer/2sMBqaUSJwnaQ5mt-KO242t9NCY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MWKTVFVMMZFCDHLL5ULKPSQFK4.JPG",
+            "publishedAt": "2022-11-15T04:48:25Z",
+            "content": "LONDON, Nov 14 (Reuters Breakingviews) - Sam Bankman-Fried has tipped the cryptocurrency industry into crisis. But the spectacular implosion of FTX, the exchange he founded, has done the broader fina… [+4600 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Coinbase reports third-quarter loss as volumes drop - Reuters",
+            "description": "U.S. cryptocurrency exchange Coinbase Global Inc <a href=\"https://www.reuters.com/companies/COIN.O\" target=\"_blank\">(COIN.O)</a> on Thursday reported a third-quarter loss as high inflation, rising interest rates and geopolitical tensions weakened demand for r…",
+            "url": "https://www.reuters.com/technology/coinbase-reports-third-quarter-loss-volumes-drop-2022-11-03/",
+            "urlToImage": "https://www.reuters.com/resizer/-HW_K2fwvRYLeHP4I00MqlCbAII=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7CLO3WASGNLOHGLA7RJPPTXG2U.jpg",
+            "publishedAt": "2022-11-03T20:21:00Z",
+            "content": "Nov 3 (Reuters) - U.S. cryptocurrency exchange Coinbase Global Inc (COIN.O) on Thursday reported a third-quarter loss as high inflation, rising interest rates and geopolitical tensions weakened deman… [+401 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Gabriel Erard",
+            "title": "A Bukele no le asusta el invierno cripto: El Salvador comprará un Bitcoin por día",
+            "description": "Hacía rato que Nayib Bukele, el presidente de El Salvador, no hacía anuncios rimbombantes sobre el Bitcoin; pero ha vuelto al ruedo. Es que el mandatario anunció en Twitter que, desde hoy, el país centroamericano comprará 1 BTC por día. Una medida que parece …",
+            "url": "https://hipertextual.com/2022/11/el-salvador-comprara-un-bitcoin-por-dia",
+            "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2022/11/bukele-scaled.jpg",
+            "publishedAt": "2022-11-17T16:21:15Z",
+            "content": "Hacía rato que Nayib Bukele, el presidente de El Salvador, no hacía anuncios rimbombantes sobre el Bitcoin; pero ha vuelto al ruedo. Es que el mandatario anunció en Twitter que, desde hoy, el país ce… [+3721 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Crypto winter highlights gold’s warming qualities - Reuters.com",
+            "description": "The crypto winter is bitterly cold. The frost set in earlier this year with the collapse of Terra, a digital token supposedly pegged to the U.S. dollar. The recent failure of Sam Bankman-Fried’s FTX exchange has further lowered the temperature. The aggregate …",
+            "url": "https://www.reuters.com/breakingviews/crypto-winter-highlights-golds-warming-qualities-2022-11-25/",
+            "urlToImage": "https://www.reuters.com/resizer/VnSxRLGiLxsuGwYE03LABZNTZM8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5BWIRY3ZBVN2ZLJZHG44TPXN24.jpg",
+            "publishedAt": "2022-11-25T01:20:00Z",
+            "content": "LONDON, Nov 25 (Reuters Breakingviews) - The crypto winter is bitterly cold. The frost set in earlier this year with the collapse of Terra, a digital token supposedly pegged to the U.S. dollar. The r… [+6665 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Jennifer Conrad",
+            "title": "China’s Digital Yuan Works Just Like Cash—With Added Surveillance",
+            "description": "Government officials are urging citizens to adopt the official digital currency in a bid to gain more control over the economy.",
+            "url": "https://www.wired.com/story/chinas-digital-yuan-ecny-works-just-like-cash-surveillance/",
+            "urlToImage": "https://media.wired.com/photos/636302865ca6e79a517309e6/191:100/w_1280,c_limit/Chinas-Digital-Currency-Has-A-Slow-Start-Business-1232784739.jpg",
+            "publishedAt": "2022-11-08T13:00:00Z",
+            "content": "By the mid-2010s, Chinese people in big cities had generally switched from using cash to using Alipay and WeChat Pay. By the end of 2021, about 64 percent of Chinese people were using mobile payment … [+2838 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "jsor@insider.com (Jennifer Sor)",
+            "title": "Billionaire bitcoin bull Mike Novogratz says crypto should and will be regulated and the FTX disaster has created a 'deficit of trust' in the whole industry",
+            "description": "\"Right now we're in a deficit of trust. People think there's a black swan around every corner, that everyone else is a sociopath, saying one thing and doing something else.\"",
+            "url": "https://markets.businessinsider.com/news/currencies/ftx-bankruptcy-crisis-crypto-winter-trust-mike-novogratz-bitcoin-bull-2022-11",
+            "urlToImage": "https://i.insider.com/6061ba808f71c3001853abd8?width=1200&format=jpeg",
+            "publishedAt": "2022-11-23T19:17:32Z",
+            "content": "The FTX debacle has created a \"deficit of trust\" in the cryptocurrency market, according to bitcoin bull and Galaxy Digital CEO Mike Novogratz, who argued that the industry should and will be regulat… [+2103 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "sdelouya@insider.com (Samantha Delouya)",
+            "title": "Star quarterback and FTX investor Tom Brady just changed his Twitter profile photo from the Bitcoin laser eyes meme, signaling the end of an era for crypto",
+            "description": "Brady no longer advertises his confidence in crypto on Twitter after he likely took a financial hit from FTX's collapse last week.",
+            "url": "https://www.businessinsider.com/tom-brady-twitter-profile-bitcoin-laser-eyes-meme-ftx-crypto-2022-11",
+            "urlToImage": "https://i.insider.com/637290cab9d399001837193e?width=1200&format=jpeg",
+            "publishedAt": "2022-11-14T20:37:00Z",
+            "content": "Tom Brady just signaled the end of an era for crypto with a quiet change of his Twitter profile photo. \r\nThe Tampa Bay Buccaneers star quarterback, who has become a high-profile backer of cryptocurre… [+1742 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "prosen@insider.com (Phil Rosen)",
+            "title": "Cathie Wood breaks down FTX, Elon Musk, and Twitter in a new interview. Here are her 9 best quotes.",
+            "description": "The Ark Invest chief compared FTX to Bernie Madoff's Ponzi scheme: \"This is fraud. This is Madoff. Madoff was $64 billion in claims.\"",
+            "url": "https://www.businessinsider.com/cathie-wood-ftx-elon-musk-tesla-twitter-best-quotes-markets-2022-11",
+            "urlToImage": "https://i.insider.com/637e2681268b5b0018da6b26?width=1200&format=jpeg",
+            "publishedAt": "2022-11-25T13:45:00Z",
+            "content": "Veteran investor Cathie Wood is not shy about sharing her outlook for cryptocurrency and investment strategies.\r\nIn a wide-ranging interview with Bloomberg on Tuesday, the Ark Invest CEO explained wh… [+2884 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Mitchell Clark",
+            "title": "An alleged crypto scam involving a bank called Polybius is headed to court",
+            "description": "The Department of Justice has announced that two people have been arrested in connection with HashFlare and Polybius, two crypto projects that allegedly defrauded investors of over $500 million.",
+            "url": "https://www.theverge.com/2022/11/23/23474163/hashflare-crypto-mining-alleged-scam-arrests",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/N6om89FQ0jWiLUP0sV6HlxPftxI=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/8954807/acastro_170726_1777_0008.jpg",
+            "publishedAt": "2022-11-23T19:47:44Z",
+            "content": "An alleged crypto scam involving a bank called Polybius is headed to court\r\nAn alleged crypto scam involving a bank called Polybius is headed to court\r\n / Two people have been arrested in connection … [+3633 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Richard Lawler",
+            "title": "FTX files for Chapter 11 bankruptcy as CEO Sam Bankman-Fried resigns",
+            "description": "FTX announced the Chapter 11 bankruptcy filing on Friday morning as well as the resignation of its founder and CEO Sam Bankman-Fried, who reportedly loaned $10 billion in customer funds to his other crypto business.",
+            "url": "https://www.theverge.com/2022/11/11/23453164/ftx-bankruptcy-filing-sam-bankman-fried-resigns",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Rh6LjOzhbaY2qoQ8eTeSqnz-rB4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24038412/STK136_K_Radtke_FTX_02.jpg",
+            "publishedAt": "2022-11-11T15:20:09Z",
+            "content": "FTX files for Chapter 11 bankruptcy as CEO Sam Bankman-Fried resigns\r\nFTX files for Chapter 11 bankruptcy as CEO Sam Bankman-Fried resigns\r\n / The crypto exchange will have a new CEO as it attempts t… [+3003 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Grocery retailer Pick n Pay to start accepting cryptocurrency payments - Reuters.com",
+            "description": "One of South Africa's largest grocery retailers Pick n Pay <a href=\"https://www.reuters.com/companies/PIKJ.J\" target=\"_blank\">(PIKJ.J)</a> is expanding a pilot of adding cryptocurrency as a payment option to more stores after the successful completion of the …",
+            "url": "https://www.reuters.com/technology/grocery-retailer-pick-n-pay-start-accepting-cryptocurrency-payments-2022-11-01/",
+            "urlToImage": "https://www.reuters.com/resizer/Ncx9fzKUG6j3wDty_lEOP84raW4=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/67PLGIFT6NKPTKOT3OOJ4IZQ3M.jpg",
+            "publishedAt": "2022-11-01T11:04:00Z",
+            "content": "JOHANNESBURG, Nov 1 (Reuters) - One of South Africa's largest grocery retailers Pick n Pay (PIKJ.J) is expanding a pilot of adding cryptocurrency as a payment option to more stores after the successf… [+1526 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Linklaters hires energy finance partner from Sidley Austin in New York - Reuters",
+            "description": "UK-founded law firm Linklaters on Monday said it has hired a finance-focused partner from Sidley Austin in New York to head its energy and infrastructure practice in the Americas.",
+            "url": "https://www.reuters.com/legal/legalindustry/linklaters-hires-energy-finance-partner-sidley-austin-new-york-2022-11-14/",
+            "urlToImage": "https://www.reuters.com/resizer/s8FABgihS_Yk1RS8DM3088oMUY8=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IJNDPP54PBLORK4M367YRDGRYE.jpg",
+            "publishedAt": "2022-11-14T18:04:00Z",
+            "content": "Nov 14 (Reuters) - UK-founded law firm Linklaters on Monday said it has hired a finance-focused partner from Sidley Austin in New York to head its energy and infrastructure practice in the Americas.\r… [+1639 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "The Associated Press",
+            "title": "FTX crypto exchange, billions of dollars low and under DOJ scrutiny, seeks bankruptcy",
+            "description": "FTX had agreed earlier this week to sell itself to bigger rival Binance after experiencing the cryptocurrency equivalent of a bank run. The Department of Justice and the SEC are investigating.",
+            "url": "https://www.npr.org/2022/11/11/1136028292/ftx-crypto-exchange-billions-of-dollars-low-and-under-doj-scrutiny-seeks-bankrup",
+            "urlToImage": "https://media.npr.org/assets/img/2022/11/11/ap22313545058654_wide-a6909a9fe3a8ad1569def2eedc9991cb426fbaae-s1400-c100.jpg",
+            "publishedAt": "2022-11-11T15:29:26Z",
+            "content": "An advertisement for Bitcoin cryptocurrency is displayed on a street Feb. 17 in Hong Kong. Bitcoin slumped to a two-year low Wednesday.\r\nKin Cheung/AP\r\nEmbattled cryptocurrency exchange FTX, short bi… [+1238 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Asian shares fall ahead of U.S. CPI, crypto worries mount - Reuters",
+            "description": "Asian share markets were tense on Thursday and the dollar held on to its overnight gains before the big test of a U.S. consumer inflation report, while market sentiment took a dive as the likely collapse of a major crypto exchange spooked investors.",
+            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-pix-2022-11-10/",
+            "urlToImage": "https://www.reuters.com/resizer/CzCIBqgB-q40RoP-z5tT2U7nVGM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6ORULZYX5ZPCVF4SRAD5KDK56A.jpg",
+            "publishedAt": "2022-11-10T02:04:00Z",
+            "content": "SYDNEY, Nov 10 (Reuters) - Asian share markets were tense on Thursday and the dollar held on to its overnight gains before the big test of a U.S. consumer inflation report, while market sentiment too… [+3489 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Associated Press",
+            "title": "Binance pulls out of FTX merger sending cryptocurrency prices plunging",
+            "description": "The deal was conditional to due diligence of FTX’s balance sheet which raised enough concerns for Binance to back outCryptocurrency prices plunged for a second-straight day on Wednesday after crypto exchange Binance announced it was pulling out of its deal to…",
+            "url": "https://www.theguardian.com/technology/2022/nov/09/ftx-binance-merger-crypto-price-falls",
+            "urlToImage": "https://i.guim.co.uk/img/media/e720e293b2a42aa602d013244219a4c73ef5b97c/0_183_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bda570656383ac2a6851e226ba8bd847",
+            "publishedAt": "2022-11-09T22:06:39Z",
+            "content": "Cryptocurrency prices plunged for a second-straight day on Wednesday after crypto exchange Binance announced it was pulling out of its deal to purchase its failing rival FTX Trading.\r\nBitcoin and oth… [+1710 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "prosen@insider.com (Phil Rosen)",
+            "title": "US stocks fall after biggest weekly gain since June while crypto tries to rebound from the FTX bankruptcy",
+            "description": "\"The market seems to have gotten way out in front on this,\" Fed Governor Christopher Waller said about last week's CPI report.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-dow-sp500-nasdaq-binance-ftx-bitcoin-2022-11",
+            "urlToImage": "https://i.insider.com/63724667951bdc00182de778?width=1200&format=jpeg",
+            "publishedAt": "2022-11-14T14:34:59Z",
+            "content": "US stocks slipped Monday after the S&amp;P 500 soared 5.9% last week for its best week since June while cryptocurrencies tried to rebound. \r\nStocks rallied last week after the Labor Department report… [+1140 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mchittum@insider.com (Morgan Chittum)",
+            "title": "Bitcoin jumps to a 2-week high of $17,000, but crypto experts say don't cheer the rally as FTX contagion is far from contained",
+            "description": "Industry experts told Insider their crypto market outlook after FTX's sudden downfall, which has brought down other ailing firms.",
+            "url": "https://markets.businessinsider.com/news/currencies/bitcoin-rally-btc-crypto-crash-outlook-ftx-contagion-not-contained-2022-11",
+            "urlToImage": "https://i.insider.com/63735623828491001b2c6472?width=1200&format=jpeg",
+            "publishedAt": "2022-11-30T21:17:56Z",
+            "content": "Bitcoin notched a two-week high of about $17,000 on Wednesday, but experts said the fallout from FTX's crash has yet to fully play out.\r\nIn the past week, bitcoin and ethereum are up a respective 2.7… [+2552 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Carla Mozée)",
+            "title": "Retail investors are rushing in to buy the dip in crypto-linked stocks after FTX drama sparks big sell-off in digital assets",
+            "description": "\"Retail are buying the dip again,\" Vanda Research said about crypto-linked stocks and ETFs as FTX's liquidity crisis hits crypto prices.",
+            "url": "https://markets.businessinsider.com/news/stocks/crypto-bitcoin-retail-investors-ftx-binance-stocks-etfs-coinbase-2022-11",
+            "urlToImage": "https://i.insider.com/6128f88812b9cc0019631c23?width=1200&format=jpeg",
+            "publishedAt": "2022-11-09T19:08:30Z",
+            "content": "Retail investors are snapping up crypto-linked stocks being beaten down during the plunge in cryptocurrency prices that's centered on the liquidity crisis surrounding FTX, according to researchers at… [+2151 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Github.com"
+            },
+            "author": "bitcoin",
+            "title": "New Bitcoin DDoS Technique",
+            "description": "hi, i will keep this concise. it is possible to slow and entirely halt external connections from communicating with a bitcoin-core node. it is accomplished by repeatedly sending a small request, e....",
+            "url": "https://github.com/bitcoin/bitcoin/issues/26585",
+            "urlToImage": "https://opengraph.githubassets.com/94a58716f5c5eed4b816d50525bda7ed06fe3a8f8e7d9b0a1eb16dc44ed05fdd/bitcoin/bitcoin/issues/26585",
+            "publishedAt": "2022-11-27T16:52:17Z",
+            "content": "hi,\r\ni will keep this concise.\r\nit is possible to slow and entirely halt external connections from communicating with a bitcoin-core node.\r\nit is accomplished by repeatedly sending a small request, e… [+915 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Ciara Nugent",
+            "title": "Why El Salvador’s Bukele Is Doubling Down on Bitcoin Despite the Crypto Crash",
+            "description": "El Salvador was the first country to adopt Bitcoin as legal tender. It has lost millions and risks default, but it won't change course.",
+            "url": "https://time.com/6236899/el-salvador-bukele-bitcoin-crash/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2022/11/Bukele-Bitcoin.jpg?quality=85&w=1024&h=628&crop=1",
+            "publishedAt": "2022-11-25T14:41:38Z",
+            "content": "The cryptocurrency crisis, worsened by the dramatic collapse of fast-growing crypto exchange FTX in mid-November, has raised questions about the future of these digital currencies. Bitcoin, the large… [+7056 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "rhouston@businessinsider.com (Rickie Houston, CEPF)",
+            "title": "iTrustCapital review: Invest in 30 cryptocurrencies, plus gold and silver",
+            "description": "iTrustCapital is a crypto IRA platform offering 30 cryptocurrencies, staking, and gold and silver investing. You'll need at least $1,000 to begin.",
+            "url": "https://www.businessinsider.com/personal-finance/itrustcapital-investing-review",
+            "urlToImage": "https://i.insider.com/636d18c2951bdc00182d7d44?width=1200&format=jpeg",
+            "publishedAt": "2022-11-11T22:03:38Z",
+            "content": "Insider's experts choose the best products and services to help make smart decisions with your money (heres how). In some cases, we receive a commission from our our partners, however, our opinions a… [+7114 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "FTX to start U.S. bankruptcy proceedings, CEO to exit - Reuters",
+            "description": "Crypto exchange FTX is to start U.S. bankruptcy proceedings and CEO Sam Bankman-Fried is to step down, after a liquidity crisis at the cryptocurrency group that has prompted intervention from regulators around the world.",
+            "url": "https://www.reuters.com/business/ftx-start-us-bankruptcy-proceedings-ceo-exit-2022-11-11/",
+            "urlToImage": "https://www.reuters.com/resizer/WxSBoSOCqqDiukoRWWyetYsehrw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AK4QJ5OUYJOCPNRPYM5IKOGOJI.jpg",
+            "publishedAt": "2022-11-11T15:13:00Z",
+            "content": "SINGAPORE/LONDON, Nov 11 (Reuters) - Crypto exchange FTX is to start U.S. bankruptcy proceedings and CEO Sam Bankman-Fried is to step down, after a liquidity crisis at the cryptocurrency group that h… [+2153 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jeremy Hill",
+            "title": "FTX.com Goes Bankrupt in Stunning Reversal for Crypto Exchange - Yahoo Canada Finance",
+            "description": "<ol><li>FTX.com Goes Bankrupt in Stunning Reversal for Crypto Exchange  Yahoo Canada Finance\r\n</li><li>He was hailed as crypto's saviour. Now he needs billions for a bailout  CBC.ca\r\n</li><li>Ontario Teachers' Pension Plan invested US$95M into failing crypto …",
+            "url": "https://ca.finance.yahoo.com/news/ftx-com-goes-bankrupt-stunning-142818900.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/1RSZtWTYpB4qLCnb5RMxiw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/0db3f077c3d08a102e1c2a20c2a9f3d5",
+            "publishedAt": "2022-11-11T14:36:50Z",
+            "content": "(Bloomberg) -- Sam Bankman-Frieds digital-asset empire filed for Chapter 11 bankruptcy in Delaware, capping a rapid downfall for the 30-year-old entrepreneur and onetime crypto king.\r\nMost Read from … [+2409 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Dollar wobbles while investors await midterms; cryptos skittish - Reuters",
+            "description": "The dollar wavered on Wednesday, as traders awaited results from U.S. midterm elections and inflation data that could disappoint hopes for a slowdown in rate hikes, while cryptocurrency markets attempted to steady after news of a bailout of exchange FTX.",
+            "url": "https://www.reuters.com/markets/currencies/dollar-wobbles-while-investors-await-midterms-cryptos-skittish-2022-11-09/",
+            "urlToImage": "https://www.reuters.com/resizer/RAqDwRGukpLQsDyAdVj8bwD9Hwo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FH7EYAOX4ZLR3CRL3KMYMNRUDU.jpg",
+            "publishedAt": "2022-11-09T01:35:00Z",
+            "content": "SINGAPORE, Nov 9 (Reuters) - The dollar wavered on Wednesday, as traders awaited results from U.S. midterm elections and inflation data that could disappoint hopes for a slowdown in rate hikes, while… [+2275 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Investors flock to short crypto funds, products as negative sentiment deepens -CoinShares - Reuters",
+            "description": "Institutional investors rushed to crypto products that bet on price declines, posting record inflows, as the <a href=\"/markets/currencies/exclusive-least-1-billion-client-funds-missing-failed-crypto-firm-ftx-sources-2022-11-12/\">collapse of digital asset exch…",
+            "url": "https://www.reuters.com/technology/investors-flock-short-crypto-funds-products-negative-sentiment-deepens-2022-11-21/",
+            "urlToImage": "https://www.reuters.com/resizer/-4c6cbQ7CabG-LHwGVTTq--yrTg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BE5Q5YJS3RNQXENCM3WMPXUTKM.jpg",
+            "publishedAt": "2022-11-21T20:15:00Z",
+            "content": "NEW YORK, Nov 21 (Reuters) - Institutional investors rushed to crypto products that bet on price declines, posting record inflows, as the collapse of digital asset exchange FTX rippled across the ind… [+2425 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Singapore's Temasek writes down $275 mln investment in FTX - Reuters",
+            "description": "Singapore's state investor Temasek Holdings (TEM.UL) said on Thursday it will write down the value of its full investment in collapsed cryptocurrency exchange FTX, irrespective of outcome of its bankruptcy filing.",
+            "url": "https://www.reuters.com/technology/singapores-temasek-writes-down-275-mln-investment-ftx-2022-11-16/",
+            "urlToImage": "https://www.reuters.com/resizer/QtRrM_Mfn7Dihu59uO8ewz09tqI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DK6TYIZ5TJMUVMNS35LJGYTVGI.jpg",
+            "publishedAt": "2022-11-16T23:53:00Z",
+            "content": "Nov 17 (Reuters) - Singapore's state investor Temasek Holdings (TEM.UL) said on Thursday it will write down the value of its full investment in collapsed cryptocurrency exchange FTX, irrespective of … [+711 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "CoinShares says has $30.3 million exposure to FTX - Reuters",
+            "description": "Crypto asset manager CoinShares has $30.3 million worth of exposure to crypto exchange FTX, CoinShares said in a statement on Thursday.",
+            "url": "https://www.reuters.com/technology/coinshares-says-has-303-million-exposure-ftx-2022-11-10/",
+            "urlToImage": "https://www.reuters.com/resizer/_wMFawbTXgvaPkkyEfP9eQznO4c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IEKBL26CVFNPJJPQNQNVV4NMMI.jpg",
+            "publishedAt": "2022-11-10T14:23:00Z",
+            "content": "LONDON, Nov 10 (Reuters) - Crypto asset manager CoinShares has $30.3 million worth of exposure to crypto exchange FTX, CoinShares said in a statement on Thursday.\r\nCoinShares said its exposure to FTX… [+617 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Emily Parker",
+            "title": "Opinion: Crypto's white knight problem",
+            "description": "Over the past year, as crypto companies imploded and losses mounted, a white knight appeared. Sam Bankman-Fried, the 30-year-old CEO of crypto exchange FTX, helped bail out distressed crypto companies like BlockFi and Voyager. In an industry with a reputation…",
+            "url": "https://www.cnn.com/2022/11/12/opinions/crypto-white-knight-problem-sam-bankman-fried-ftx-parker/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221109152426-sam-bankman-fried-ftx-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-12T16:04:20Z",
+            "content": "Editors Note: Emily Parker is executive director of global content at CoinDesk, a media, event, indices and data company, and a former policy advisor at the US State Department and writer/editor at T… [+5488 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Carla Mozée)",
+            "title": "FTX's collapse shows that lawmakers need to learn more about crypto to properly regulate it, according to a Republican lawmaker who's pushing a bipartisan digital assets bill",
+            "description": "Washington lawmakers need to learn about crypto so \"we can engage in proper regulation,\" Republican Senator Cynthia Lummis told the FT.",
+            "url": "https://markets.businessinsider.com/news/currencies/ftx-collapse-crypto-bipartisan-bill-cynthia-lummis-congress-washington-sec-2022-11",
+            "urlToImage": "https://i.insider.com/6160081ad62be70019c00751?width=1200&format=jpeg",
+            "publishedAt": "2022-11-28T20:03:32Z",
+            "content": "The implosion of cryptocurrency exchange FTX underscores the need for US legislation aimed at greater regulation of digital assets, according to Republican Senator Cynthia Lummis who introduced a bip… [+1847 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bevans@insider.com (Brian Evans)",
+            "title": "Bitcoin and other cryptocurrencies sell off as Binance's stunning takeover of FTX renews liquidity fears in the sector",
+            "description": "Binance CEO Changpeng Zhao said Tuesday his crypto exchange will acquire rival FTX \"and help cover the liquidity crunch.\" FTX Token crashed 45%.",
+            "url": "https://markets.businessinsider.com/news/currencies/crypto-prices-bitcoin-bnb-binance-ftx-takeover-liquidity-crunch-sbf-2022-11",
+            "urlToImage": "https://i.insider.com/62e141acd8e3a400192ccf38?width=1200&format=jpeg",
+            "publishedAt": "2022-11-08T18:14:56Z",
+            "content": "Bitcoin and most other cryptocurrencies were down Tuesday as Binance's stunning announcement that it will acquire FTX renewed liquidity fears in the industry. \r\nThe global value of the overall crypto… [+1507 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "rhouston@businessinsider.com (Rickie Houston, CEPF)",
+            "title": "Alto IRA review: Invest in crypto, real estate, private equity, and more",
+            "description": "Alto IRA is an SDIRA investment platform supporting crypto, real estate, precious metals, and more. It offers two products: Alto IRA and Alto CryptoIRA.",
+            "url": "https://www.businessinsider.com/personal-finance/alto-ira-review",
+            "urlToImage": "https://i.insider.com/637b9d812c8b9a0018cbe174?width=1200&format=jpeg",
+            "publishedAt": "2022-11-21T21:57:36Z",
+            "content": "Insider's experts choose the best products and services to help make smart decisions with your money (heres how). In some cases, we receive a commission from our our partners, however, our opinions a… [+9251 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Sean Keane",
+            "title": "FTX Files for Bankruptcy in Wake of Binance Halting Acquisition, CEO Resigns - CNET",
+            "description": "The second-largest crypto exchange has had a rocky week.",
+            "url": "https://www.cnet.com/personal-finance/crypto/ftx-files-for-bankruptcy-in-wake-of-binance-halting-acquisition-ceo-resigns/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/0ab550c40191abf2c298777fd9a0942cde844041/hub/2022/11/10/52e67171-02b5-4cda-a730-7cf5a13b5e48/binance-red.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2022-11-11T15:45:00Z",
+            "content": "Beleaguered cryptocurrency platform FTX filed for bankruptcy protection Friday, in the wake of rival Binance backing out of a plan to acquire it. CEO Sam Bankman-Fried resigned from his position, but… [+2627 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Insiderintelligence.com"
+            },
+            "author": "insider@insider.com (Adriana Nunez)",
+            "title": "MoneyGram reaffirms crypto commitment with trading solution",
+            "description": "MoneyGram app users can now buy, sell, or hold cryptos. Here's how that can help drive engagement and boost its digital remittance business.",
+            "url": "https://www.insiderintelligence.com/content/moneygram-reaffirms-crypto-commitment-with-trading-solution",
+            "urlToImage": "https://www.insiderintelligence.com/content/storage/socialsharingdefault/default-image-share.png?im=FitAndFill,width=1200,height=630",
+            "publishedAt": "2022-11-02T14:22:51Z",
+            "content": "The news: MoneyGram customers can now buy, sell, and hold Bitcoin, Ethereum, and Litecoin directly from the MoneyGram app, per a press release. The feature is powered by crypto exchange Coinme. \r\nHow… [+3121 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Nikki Main",
+            "title": "Meta Employees Were Reportedly Fired for Selling Account Information to Hackers",
+            "description": "Meta reportedly fired more than a dozen security guards and other workers in the last year after internal investigations revealed they had been selling users’ information and login details to hackers. Some of those who received disciplinary actions were contr…",
+            "url": "https://gizmodo.com/meta-hackers-security-guards-facebook-instagram-1849798256",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cac9a70b4e826f3cf83e12d807857856.jpg",
+            "publishedAt": "2022-11-17T22:05:00Z",
+            "content": "Meta reportedly fired more than a dozen security guards and other workers in the last year after internal investigations revealed they had been selling users information and login details to hackers.… [+3125 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "The Associated Press",
+            "title": "The downfall of FTX's Sam Bankman-Fried sends shockwaves through the crypto world",
+            "description": "Sam Bankman-Fried received huge plaudits and superstar status as the head of cryptocurrency exchange FTX. Now the comments aren't so kind after FTX filed for bankruptcy protection.",
+            "url": "https://www.npr.org/2022/11/14/1136482889/ftx-sam-bankman-fried-shockwaves-crypto",
+            "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+            "publishedAt": "2022-11-14T15:54:16Z",
+            "content": "NEW YORK Sam Bankman-Fried received numerous plaudits as he rapidly achieved superstar status as the head of cryptocurrency exchange FTX: the savior of crypto, the newest force in Democratic politics… [+5828 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Kirstie McDermott",
+            "title": "Blockchain development is a far better tech career than you’d think",
+            "description": "A decentralized, distributed ledger that tracks and stores every transaction in a verifiable way, the blockchain records transactions across multiple nodes (or computers) in such a way that the registered transaction cannot be altered retroactively. That’s a …",
+            "url": "https://thenextweb.com/news/blockchain-development-tech-career",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F11%2Fmorthy-jameson-mVZJIcVbU74-unsplash.jpg&signature=04b0aaf1a352c62f056b696d2e541b09",
+            "publishedAt": "2022-11-22T14:08:06Z",
+            "content": "A decentralized, distributed ledger that tracks and stores every transaction in a verifiable way, the blockchain records transactions across multiple nodes (or computers) in such a way that the regis… [+5599 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "jsor@insider.com (Jennifer Sor)",
+            "title": "Dow sinks 500 points as China protests and hawkish Fed comments rattle markets",
+            "description": "US stocks took a hit as protests dragged on in China, which could exacerbate supply-chain issues and hinder the Fed's inflation fight.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-dow-sp500-nasdaq-china-protests-fed-2022-11",
+            "urlToImage": "https://i.insider.com/63847fe9b4cf0100187dae7d?width=1200&format=jpeg",
+            "publishedAt": "2022-11-28T21:08:33Z",
+            "content": "US stocks sank on Monday as protests in China and hawkish comments from Fed officials weighed on the market. \r\nAnger over China's zero-COVID policy has sparked turmoil across the nation, with protest… [+1916 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "jsor@insider.com (Jennifer Sor)",
+            "title": "US stocks close higher as investors turn their attention to midterm election results",
+            "description": "Cryptocurrencies fell on news that Binance is taking over Sam Bankman-Fried's crypto exchange FTX, raising liquidity concerns in the sector.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-sp500-dow-nasdaq-midterm-election-results-2022-11",
+            "urlToImage": "https://i.insider.com/5a70853f59d432270f8b477d?width=1200&format=jpeg",
+            "publishedAt": "2022-11-08T21:05:57Z",
+            "content": "US stocks rose on Tuesday as investors turn their attention to midterm election results, while cryptocurrencies sold off on renewed liquidity fears.\r\nWall Street has been eyeing possible political gr… [+768 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bevans@insider.com (Brian Evans)",
+            "title": "US stocks drop as Republican wave fails to sweep through midterm elections",
+            "description": "Crypto markets continued to reel from Binance's surprise deal to take over FTX.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-dow-sp500-trump-biden-midterm-elections-2022-11",
+            "urlToImage": "https://i.insider.com/636bbb09113fe100183531c5?width=1200&format=jpeg",
+            "publishedAt": "2022-11-09T14:48:20Z",
+            "content": "US stocks opened lower on Wednesday as midterm election results showed a lackluster Republican performance so far. \r\nControl of Congress remained too close to definitively call, especially in the Sen… [+585 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bevans@insider.com (Brian Evans)",
+            "title": "US stocks jump as slowing wholesale inflation adds to hopes the Fed will ease rate hikes soon",
+            "description": "The producer price index rose 0.2% in October from the prior month, below the consensus estimate for a 0.4% gain.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-biden-xi-meeting-wholesale-inflation-ppi-2022-11",
+            "urlToImage": "https://i.insider.com/61e87ee59386c900185f6969?width=1200&format=jpeg",
+            "publishedAt": "2022-11-15T14:37:18Z",
+            "content": "US stocks opened higher Tuesday as fresh signs of slowing inflation raised hopes for a less hawkish Federal Reserve. \r\nThe producer price index, a measure of wholesale inflation, rose 0.2% in October… [+703 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "France, Singapore, Switzerland jointly test central bank digital currencies - Reuters.com",
+            "description": "France, Singapore and Switzerland have launched a joint trial of their experimental central bank digital currencies (CBDCs) in the first cross-regional trial of its kind.",
+            "url": "https://www.reuters.com/technology/france-singapore-switzerland-jointly-test-central-bank-digital-currencies-2022-11-02/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=118",
+            "publishedAt": "2022-11-02T18:00:00Z",
+            "content": "LONDON, Nov 2 (Reuters) - France, Singapore and Switzerland have launched a joint trial of their experimental central bank digital currencies (CBDCs) in the first cross-regional trial of its kind.\r\nT… [+1205 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. Senate to hold FTX hearing on Dec. 1, CFTC chairman to testify - Reuters",
+            "description": "The U.S. Senate Agriculture Committee on Thursday said it will hold a hearing on Dec. 1 to examine the sudden collapse of FTX, one of the world's biggest crypto exchanges.",
+            "url": "https://www.reuters.com/technology/us-senate-hold-ftx-hearing-dec-1-cftc-chairman-testify-2022-11-21/",
+            "urlToImage": "https://www.reuters.com/resizer/zOqEv6d9mQ6OKkvn-YOnmkRe6M4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/D4GLMIJXQNNFFJC7F5Z2CKD7J4.jpg",
+            "publishedAt": "2022-11-21T20:43:00Z",
+            "content": "Nov 21 (Reuters) - The U.S. Senate Agriculture Committee on Thursday said it will hold a hearing on Dec. 1 to examine the sudden collapse of FTX, one of the world's biggest crypto exchanges.\r\nFTX fil… [+985 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Binance CEO Zhao says don't fight crypto, regulate it - Reuters",
+            "description": "Binance Chief Executive Officer Changpeng Zhao said on Friday regulation rather than opposition of the crypto sector is a better option for world governments as digital currencies become more mainstream.",
+            "url": "https://www.reuters.com/legal/government/binance-ceo-zhao-says-dont-fight-crypto-regulate-it-2022-11-25/",
+            "urlToImage": "https://www.reuters.com/resizer/6m4G-Ef4XWqoWbojun8C97opEPc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZGZQXHKQTZLTJNFJKBGTT33GXA.jpg",
+            "publishedAt": "2022-11-25T19:58:00Z",
+            "content": "ATHENS, Nov 25 (Reuters) - Binance Chief Executive Officer Changpeng Zhao said on Friday regulation rather than opposition of the crypto sector is a better option for world governments as digital cur… [+1402 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Binance to relaunch bid to buy bankrupt Voyager Digital - Coindesk - Reuters",
+            "description": "Crypto exchange Binance's U.S. unit is relaunching its bid to buy bankrupt crypto lender Voyager Digital, Coindesk <a href=\"https://bit.ly/3EFSsx9\" target=\"_blank\">reported</a> on Thursday, citing a person familiar with the matter.",
+            "url": "https://www.reuters.com/technology/binance-relaunch-bid-buy-bankrupt-voyager-digital-coindesk-2022-11-17/",
+            "urlToImage": "https://www.reuters.com/resizer/VIJNNtW3E44_sf0rCmhPBHuD49o=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UQ4XSZNLJBNEVE4IBQUJ4T65YM.jpg",
+            "publishedAt": "2022-11-17T09:30:00Z",
+            "content": "Nov 17 (Reuters) - Crypto exchange Binance's U.S. unit is relaunching its bid to buy bankrupt crypto lender Voyager Digital, Coindesk reported on Thursday, citing a person familiar with the matter.\r\n… [+990 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Asia shares mixed while oil falls on China COVID outlook - Reuters",
+            "description": "Asian share markets were mixed on Tuesday and oil was weaker as investors sought to digest the economic implications of China's COVID policy adjustments and a rescue package for the country's struggling property sector.",
+            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2022-11-15/",
+            "urlToImage": "https://www.reuters.com/resizer/dvH0FA_QEvcO2Mgo5qHJVpty68o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WLLYKSM2UFL6XFFWUAC7JPPRNA.jpg",
+            "publishedAt": "2022-11-15T02:26:00Z",
+            "content": "SYDNEY, Nov 15 (Reuters) - Asian share markets were mixed on Tuesday and oil was weaker as investors sought to digest the economic implications of China's COVID policy adjustments and a rescue packag… [+3057 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Hong Kong's leading crypto retail operator says it ceases trading as FTX fallout roils sector - Reuters",
+            "description": "A leading cryptocurrency retail service provider in Hong Kong said it has ceased trading as the broader fallout from the collapse of FTX, and solvency issues at other major crypto firms, continues to roil the sector.",
+            "url": "https://www.reuters.com/technology/hong-kongs-leading-crypto-retail-operator-says-it-ceases-trading-ftx-fallout-2022-11-18/",
+            "urlToImage": "https://www.reuters.com/resizer/Bf7rKdH01ww1Wv_AtARAaa8mgUw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C4SMQFCB4JICHAM4PBKXROWFKQ.jpg",
+            "publishedAt": "2022-11-18T08:37:00Z",
+            "content": "HONG KONG, Nov 18 (Reuters) - A leading cryptocurrency retail service provider in Hong Kong said it has ceased trading as the broader fallout from the collapse of FTX, and solvency issues at other ma… [+3157 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Sam Bankman-Fried's sudden turn from white knight to washout - Reuters",
+            "description": "Sam Bankman-Fried earned a reputation as savior of the crypto industry when he bailed out two platforms earlier this year. But when FTX, the exchange he co-founded and led until Friday, needed a lifeline, none was forthcoming.",
+            "url": "https://www.reuters.com/technology/sam-bankman-frieds-sudden-turn-white-knight-washout-2022-11-12/",
+            "urlToImage": "https://www.reuters.com/resizer/rsAC6U_M5UjiUg8YMgMfpC1xteQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KTCVBIOG3FNUNH4HGWF24CSMLQ.jpg",
+            "publishedAt": "2022-11-12T02:46:00Z",
+            "content": "Nov 11 (Reuters) - Sam Bankman-Fried earned a reputation as savior of the crypto industry when he bailed out two platforms earlier this year. But when FTX, the exchange he co-founded and led until Fr… [+3060 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Breakingviews - Crypto watchdogs have a giant offshore problem - Reuters",
+            "description": "Tighter cryptocurrency regulation is inevitable after the collapse of exchange FTX. Even so, there will still be places that the rules don’t touch. Big players like Binance, as well as services based on so-called decentralised finance, may stay out of reach. …",
+            "url": "https://www.reuters.com/breakingviews/crypto-watchdogs-have-giant-offshore-problem-2022-11-17/",
+            "urlToImage": "https://www.reuters.com/resizer/0kCkCccVQMmDulJhS_LD0lxTl4I=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BFGRRCUOGBN6VOQQO7TJBXNWYM.jpg",
+            "publishedAt": "2022-11-17T10:55:00Z",
+            "content": "LONDON, Nov 17 (Reuters Breakingviews) - Tighter cryptocurrency regulation is inevitable after the collapse of exchange FTX. Even so, there will still be places that the rules dont touch. Big players… [+3759 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Web3isgoinggreat.com"
+            },
+            "author": "John Gruber",
+            "title": "Grayscale Bitcoin Trust, Largest Traded Cryptocurrency Fund, Hits Record Lows",
+            "description": "Grayscale Bitcoin Trust (GBTC), the largest publicly traded crypto fund, hit record lows in the wake of the FTX collapse. The fund was trading at nearly a 50% discount on the underlying Bitcoin asset, as holders rushed to sell off their GBTC holdings.This was…",
+            "url": "https://web3isgoinggreat.com/?id=grayscale-bitcoin-trust-suffers-due-to-ftx-collapse-and-doubts-over-reserves",
+            "urlToImage": "https://storage.googleapis.com/primary-web3/entryImages/resized/gbtc-discount_500.webp",
+            "publishedAt": "2022-11-21T17:30:36Z",
+            "content": "Grayscale Bitcoin Trust (GBTC), the largest publicly traded crypto fund, hit record lows in the wake of the FTX collapse. The fund was trading at nearly a 50% discount on the underlying Bitcoin asset… [+934 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Dan Milmo and Alex Hern",
+            "title": "What happened to FTX and could the crisis spill over to the rest of crypto?",
+            "description": "International exchange for crypto assets is effectively unregulated – and may have been built on sand<ul><li>Cryptocurrency exchange FTX now worthless, says key investor</li></ul>FTX, the world’s second largest cryptocurrency exchange, is in a crisis and has …",
+            "url": "https://www.theguardian.com/technology/2022/nov/10/what-happened-to-ftx-and-could-crisis-spill-over-to-rest-of-crypto",
+            "urlToImage": "https://i.guim.co.uk/img/media/844db8351bf4487ce2a5b88a748e64d5b4a41ac7/0_18_8081_4848/master/8081.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=327514e535cf3428f03c9fbb2c651699",
+            "publishedAt": "2022-11-10T15:22:29Z",
+            "content": "FTX, the worlds second largest cryptocurrency exchange, is in a crisis and has pitched the digital asset market into another crash.\r\nHere we look at what has happened to FTX, why, and what it means f… [+6599 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian community team",
+            "title": "Have you been affected by the FTX crypto exchange collapse?",
+            "description": "We’d like to speak to users who have lost fundsThe FTX cryptocurrency exchange has collapsed with at least $1bn in investor assets lost.The exchange has filed for bankruptcy in the US, and its boss Sam Bankman-Fried has also stepped down as chief executive. C…",
+            "url": "https://www.theguardian.com/technology/2022/nov/14/have-you-been-affected-by-the-ftx-crypto-exchange-collapse",
+            "urlToImage": "https://i.guim.co.uk/img/media/4cdf3dc31464d0cdc10c1172cd11b8fae5e2e410/0_66_5606_3365/master/5606.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bc28f71faa8eb9d24d382259721d2a30",
+            "publishedAt": "2022-11-14T15:30:11Z",
+            "content": "The FTX cryptocurrency exchange has collapsed with at least $1bn in investor assets lost.\r\nThe exchange has filed for bankruptcy in the US, and its boss Sam Bankman-Fried has also stepped down as chi… [+1052 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Sean Keane",
+            "title": "Crypto Exchange Binance Walks Away From Rival FTX Trading Acquisition, Report Says - CNET",
+            "description": "FTX is facing a liquidity crunch.",
+            "url": "https://www.cnet.com/personal-finance/crypto/crypto-exchange-binance-walks-away-from-rival-ftx-trading-acquisition-report-says/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/1f54add59765d4fb7546b8ca680c62918177ab79/hub/2022/11/09/36a03c23-232e-42b1-8621-95faba40217b/binance-logo.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2022-11-09T22:32:00Z",
+            "content": "Crypto exchange Binance had signed a letter of intent to acquire rival FTX Trading, the companies said Tuesday, but The Wall Street Journal reported Wednesday that it will not proceed with the move. … [+1064 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "hackernoon.com"
+            },
+            "author": "Roman Wiligut",
+            "title": "DeFi’s Rise to Shame: Its Problems and How to Fix Them",
+            "description": "With the emergence of Bitcoin, a lot of financial experts predicted big changes due to the utilization of cryptocurrencies.",
+            "url": "https://hackernoon.com/defis-rise-to-shame-its-problems-and-how-to-fix-them",
+            "urlToImage": "https://cdn.hackernoon.com/images/ANdDUZCX7rbGGUY9Uhedg1VoSfb2-uk935g8.jpeg",
+            "publishedAt": "2022-11-19T13:34:59Z",
+            "content": "With the emergence of Bitcoin, a lot of financial experts predicted big changes due to the utilization of cryptocurrencies. However, it was evidentrather quicklythat Bitcoin has a fairly limited set … [+14018 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "htan@insider.com (Huileng Tan)",
+            "title": "Sequoia Capital says it's marking its investment in FTX down to $0 as a liquidity crunch threatens to put the crypto exchange into bankruptcy",
+            "description": "Sequoia wrote to its investors after Binance U-turned on acquiring FTX, citing issues \"beyond our control or ability to help.\"",
+            "url": "https://www.businessinsider.com/ftx-investment-zero-vc-firm-sequoia-capital-says-binance-2022-11",
+            "urlToImage": "https://i.insider.com/636c85b6951bdc00182d715c?width=1200&format=jpeg",
+            "publishedAt": "2022-11-10T06:47:11Z",
+            "content": "Venture capital giant Sequoia Capital says it's marking down the full value of its investment in FTX to zero dollars, amid uncertainty over the crypto exchange's liquidity crunch.\r\nThe VC firm wrote … [+2758 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Justice.gov"
+            },
+            "author": null,
+            "title": "US Attorney Announces $3.36B Cryptocurrency Seizure in Connection with Silk Road",
+            "description": "Comments",
+            "url": "https://www.justice.gov/usao-sdny/pr/us-attorney-announces-historic-336-billion-cryptocurrency-seizure-and-conviction",
+            "urlToImage": "https://www.justice.gov/sites/all/modules/features/doj_sharing/images/doj-seal-fb.jpg",
+            "publishedAt": "2022-11-07T14:44:13Z",
+            "content": "Damian Williams, the United States Attorney for the Southern District of New York, and Tyler Hatcher, the Special Agent in Charge of the Internal Revenue Service, Criminal Investigation, Los Angeles … [+9496 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Warren Buffett's Berkshire warns about crypto website using its name - Reuters",
+            "description": "Berkshire Hathaway Inc <a href=\"https://www.reuters.com/companies/BRKa.N\" target=\"_blank\">(BRKa.N)</a>, run by billionaire Warren Buffett, on Friday warned investors it has no affiliation with a purported cryptocurrency brokerage website using the Berkshire H…",
+            "url": "https://www.reuters.com/technology/warren-buffetts-berkshire-warns-about-crypto-website-using-its-name-2022-11-18/",
+            "urlToImage": "https://www.reuters.com/resizer/aAcg7s7iiOQMjDIlvIRYXy0ZQ4U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GRBVHTDGFZO73JPWHO6GKFLPOU.jpg",
+            "publishedAt": "2022-11-18T23:55:00Z",
+            "content": "Nov 18 (Reuters) - Berkshire Hathaway Inc (BRKa.N), run by billionaire Warren Buffett, on Friday warned investors it has no affiliation with a purported cryptocurrency brokerage website using the Ber… [+1778 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Enrique Pérez",
+            "title": "Nueva York toma la iniciativa en regular las criptomonedas. El primer paso ha sido prohibir la minería Bitcoin",
+            "description": "Nueva York ha decidido crear una ley pionera. Y afecta directamente al mundo de las criptomonedas. El gobernador Kathy Hochul ha aprobado la prohibición de la minería Bitcoin, impidiendo que se otorguen nuevos permisos. Se trata de la primera legislación de e…",
+            "url": "https://www.xataka.com/criptomonedas/nueva-york-toma-iniciativa-regular-criptomonedas-primer-paso-ha-sido-prohibir-mineria-bitcoin",
+            "urlToImage": "https://i.blogs.es/264a74/mineria/840_560.jpg",
+            "publishedAt": "2022-11-23T14:01:50Z",
+            "content": "Nueva York ha decidido crear una ley pionera. Y afecta directamente al mundo de las criptomonedas. El gobernador Kathy Hochul ha aprobado la prohibición de la minería Bitcoin, impidiendo que se otorg… [+2460 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Erron Kelly",
+            "title": "Web3 gaming needs to get away from speculation",
+            "description": "Speculation mechanics are a Sword of Damocles over the burgeoning Web3 gaming world. If we don't get out from under it, we might be doomed.",
+            "url": "https://venturebeat.com/games/web3-gaming-needs-to-get-away-from-speculation/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2022/05/freeverse-5.jpg?w=1200&strip=all",
+            "publishedAt": "2022-11-12T16:45:00Z",
+            "content": "Did you miss a session from GamesBeat Summit Next 2022? All sessions are now available for viewing in our on-demand library. Click here to start watching.\r\nThe GamesBeat Summit Next 2022s How a Punk … [+3890 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phandroid - News for Android"
+            },
+            "author": "Phandroid Editors",
+            "title": "Types of Bitcoin Investors",
+            "description": "Bitcoin is now a buzzword. In reality, millions of people are using Bitcoin today. While most people use Bitcoin simply as a means of payment, considering that Bitcoin was originally to replace the fiat currency, many people are investing in Bitcoin. To effic…",
+            "url": "https://phandroid.com/2022/11/11/types-of-bitcoin-investors/",
+            "urlToImage": "https://phandroid.com/wp-content/uploads/2021/06/bitcoin-7-640x427.jpg",
+            "publishedAt": "2022-11-11T06:09:57Z",
+            "content": "Bitcoin is now a buzzword. In reality, millions of people are using Bitcoin today. While most people use Bitcoin simply as a means of payment, considering that Bitcoin was originally to replace the f… [+3569 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Andreas Knobloch",
+            "title": "Dienstag: Bitcoin-Milliarden in Popcorn-Schachtel, Mastodon wächst und wächst",
+            "description": "Bitcoin-Milliarden gefunden + Mastodon freut sich + Twitter will Entlassene zurückholen + Starlink-Antennen ohne Empfang + Apple Watch unterbricht Albträume",
+            "url": "https://www.heise.de/news/Dienstag-Bitcoin-Milliarden-in-Popcorn-Schachtel-Mastodon-waechst-und-waechst-7332996.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/3/9/4/0/0/Wochentage-source-sans-0b6d66d11f81bdc7.png",
+            "publishedAt": "2022-11-08T05:30:00Z",
+            "content": "Die Dispositive waren zum Teil an abenteuerlichen Orten versteckt, darunter in einer Popcorn-Dose im Badezimmer. Das US-Justizministerium hat bekannt gemacht, dass es vor einem Jahr bei einer Razzia … [+3490 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mchittum@insider.com (Morgan Chittum,Rebecca Ungarino)",
+            "title": "Wall Street has made serious strides to embrace crypto this year. But after FTX's implosion, a regulatory crackdown is imminent.",
+            "description": "From BlackRock to Apollo, the biggest names on the Street have been dabbling in crypto. FTX's implosion, however, is a huge setback for the industry.",
+            "url": "https://www.businessinsider.com/crypto-regulatory-crackdown-is-imminent-after-ftx-dramatic-implosion-2022-11",
+            "urlToImage": "https://i.insider.com/63615259ade71a00193dd401?width=1200&format=jpeg",
+            "publishedAt": "2022-11-15T18:22:33Z",
+            "content": "Crypto has been in a months-long rut, with the market dropping more than two-thirds of its value since November of last year. \r\nFollowing the collapse of algorithmic stablecoin TerraUSD, contagion co… [+5310 chars]"
+        }
+    ]
+}
