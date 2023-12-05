@@ -8,7 +8,7 @@ import { useState } from 'react';
 
 const App = () => {
   const pageSize = 12;
-  const apiKey = process.env.REACT_APP_NEWS_API
+  const apiKey = "97d771e0ad0b4adb880c50036c88d189";
 
   const [progress,setProgress] = useState(0)
 
